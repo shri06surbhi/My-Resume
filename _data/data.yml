@@ -47,57 +47,51 @@ education:
     - degree: B.E (Information Techonology)
       university: TIT Bhopal (MP)
       time: 2011 - 2015
-	  percentage: 8.04 CGPA
-	  details: |
-		Developed Notepad Editor using Java SE and Java EE.
-		The objective is to design a Notepad Editor which can operate
-		on any operating system and provides better application that will offer additional features
-		and enhancements, like changing font colour, mailing, & toolbar with shortcut icons.
+      percentage: 8.04 CGPA
+      details: |
+        Developed Notepad Editor using Java SE and Java EE.
+        The objective is to design a Notepad Editor which can operate on any operating system and provides better application that will offer additional features and enhancements, like changing font colour, mailing, & toolbar with shortcut icons.
 
 - degree: XII Higher Secondary (M.P. Board)
-	university:
-    time:  2010 - 2011
-    percentage: 75%
-    details: |
+   university:
+   time:  2010 - 2011
+   percentage: 75%
+   details: |
 
 - degree: X High School (M.P. Board)
-    time: 2009 - 2010
-    percentage: 78%
-     details: |
+   time: 2009 - 2010
+   percentage: 78%
+   details: |
 
    
 experiences:
     - role: Software Developer (Banking Domain)
       time: 2018 - 2020 (2years)
       company: HSBC, Pune
-	  details: |
-	  		Worked on various projects related to Trading and Banking.
-	 		Projects:-
+      details: |
+          Worked on various projects related to Trading and Banking.
+          Projects:-
 
 
-	- role: Software Developer (Telecom Domain)
+- role: Software Developer (Telecom Domain)
       time: 2016 - 2018 (2 years)
       company: Amdocs, Pune
-      details: |
-     	    Worked on various projects related to Telecom.	
-		    Projects
+      details: | 
+          Worked on various projects related to Telecom.
+          Projects
  
-    		  - 1. Developed AT&T Tracker Tool - One View Tracker
-			        This is a web based tool which is used by AT&T Agents and
-					Managers to track their customer’s plans and agents details in the
-					OMS (Order management system) and CRM (customer relation
-					management) Databases. Our team has the responsibility to
-					develop the trackers and implement the new functionalities. The
-					One View tracker is developed in the Java, AngularJS on the Spring
-					platform.
+    		  - 1. Developed AT&T Tracker Tool - One View Tracker 
+                   This is a web based tool which is used by AT&T Agents and 
+                   Managers to track their customer’s plans and agents details in the 
+                   OMS (Order management system) and CRM (customer relation management) Databases. 
+                   Our team has the responsibility to develop the trackers and implement the new functionalities. 
+                   The One View tracker is developed in the Java, AngularJS on the Spring platform.
 		
    			 - 2. Developed AT&T PST Tool
-					The PST Tool is very commonly used order search tool for AT&T
-					customers. The AT&T agents and stakeholders are using this tool
-					for logging the task to create orders, cases and exceptions related
-					to these orders. Our team has the responsibility to develop the
-					codes for the new requirements and fixing the bug occurred in the
-					existing version of this tool.
+                   The PST Tool is very commonly used order search tool for AT&T customers.
+                   The AT&T agents and stakeholders are using this tool for logging the task to create orders, cases and exceptions 
+                   related to these orders. Our team has the responsibility to develop the codes for the new requirements 
+                   and fixing the bug occurred in the existing version of this tool.
 	
  projects:
     title: Side Projects
@@ -127,7 +121,7 @@ skills:
 tools:
  	title: Tools
      details: | 
-   		Git, Maven, Jira, Confluence, Junit, TDD, Apache Tomcat 7.0,  Oracel, MySql, Putty, STS (Spring Tool Suite)
+        Git, Maven, Jira, Confluence, Junit, TDD, Apache Tomcat 7.0,  Oracel, MySql, Putty, STS (Spring Tool Suite)
 
 footer: >
     Designed  by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Surbhi Shrivastava</a>
