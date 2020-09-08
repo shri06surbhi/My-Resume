@@ -54,18 +54,15 @@ education:
     - degree: XII Higher Secondary (M.P. Board)
       university: SSM
       time:  2010 - 2011
-      percentage: '75'
+      percentage: 75%
       details: | 
-        testfgf fg
 
     - degree: X High School (M.P. Board)
-      university: SSM
+      university: 
       time: 2009 - 2010
-      percentage: 78
+      percentage: 78%
       details: | 
-        rggtrgtrhb
-
-   
+      
 experiences:
     - role: Software Developer (Banking Domain)
       time: 2018 - 2020 (2years)
