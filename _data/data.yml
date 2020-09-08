@@ -18,15 +18,12 @@ sidebar:
     linkedin: surbhi
     github: surbhishri66
  
-
     languages:
       - idiom: English
         level: Professional
 
       - idiom: Hindi
         level: Professional
-
-
 
     interests:
       - item: Listening to Music
@@ -120,7 +117,7 @@ skills:
 tools:
    title: Tools
    details: | 
-    Git, Maven, Jira, Confluence, Junit, TDD, Apache Tomcat 7.0, Oracel, MySql, Putty, STS "(Spring Tool Suite)"
+    Git, Maven, Jira, Confluence, Junit, TDD, Apache Tomcat 7.0, Oracel, MySql, Putty, STS 
 
 footer: >
     Designed  by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Surbhi Shrivastava</a>
