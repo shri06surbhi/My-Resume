@@ -3,8 +3,8 @@
 #
 
 sidebar:
-about: False 
-education: False 
+    about: False 
+    education: False 
 
     # Profile information
     name: Surbhi Shrivastava
@@ -52,16 +52,16 @@ education:
         Developed Notepad Editor using Java SE and Java EE.
         The objective is to design a Notepad Editor which can operate on any operating system and provides better application that will offer additional features and enhancements, like changing font colour, mailing, & toolbar with shortcut icons.
 
-- degree: XII Higher Secondary (M.P. Board)
-   university:
-   time:  2010 - 2011
-   percentage: 75%
-   details: |
+    - degree: XII Higher Secondary (M.P. Board)
+      university:
+      time:  2010 - 2011
+      percentage: 75%
+      details: |
 
-- degree: X High School (M.P. Board)
-   time: 2009 - 2010
-   percentage: 78%
-   details: |
+    - degree: X High School (M.P. Board)
+      time: 2009 - 2010
+      percentage: 78%
+      details: |
 
    
 experiences:
@@ -73,7 +73,7 @@ experiences:
           Projects:-
 
 
-- role: Software Developer (Telecom Domain)
+    - role: Software Developer (Telecom Domain)
       time: 2016 - 2018 (2 years)
       company: Amdocs, Pune
       details: | 
@@ -118,9 +118,9 @@ skills:
         level: 40%
 
 tools:
-title: Tools
-details: | 
-  Git, Maven, Jira, Confluence, Junit, TDD, Apache Tomcat 7.0, Oracel, MySql, Putty, STS "(Spring Tool Suite)"
+   title: Tools
+   details: | 
+    Git, Maven, Jira, Confluence, Junit, TDD, Apache Tomcat 7.0, Oracel, MySql, Putty, STS "(Spring Tool Suite)"
 
 footer: >
     Designed  by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Surbhi Shrivastava</a>
