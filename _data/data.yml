@@ -50,14 +50,15 @@ education:
         The objective is to design a Notepad Editor which can operate on any operating system and provides better application that will offer additional features and enhancements, like changing font colour, mailing, & toolbar with shortcut icons.
 
     - degree: XII Higher Secondary (M.P. Board)
-      university:
+      university: SSM
       time:  2010 - 2011
-      percentage: 75%
-      details: |
+      percentage: 75
+      details: | 
+        testfgf fg
 
     - degree: X High School (M.P. Board)
       time: 2009 - 2010
-      percentage: 78%
+      percentage: 78
       details: |
 
    
