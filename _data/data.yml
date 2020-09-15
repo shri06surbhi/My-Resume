@@ -86,15 +86,26 @@ experiences:
       details: | 
         - **Developed AT&T Tracker Tool (One View Tracker)** 
             
-            This is a web based tool which is used by AT&T Agents and Managers to track their customer’s plans and agents details in the OMS (Order management system) and CRM (customer relation management) Databases. Our team has the responsibility to develop the trackers and implement the new functionalities. The One View tracker is developed using Java SE, Spring, JSP and SQL platform.
+           This is a web based tool which is used by AT&T Agents and Managers to track their customer’s plans and agents details in the OMS (Order management system) and CRM (customer relation management) Databases. Our team has the responsibility to develop the trackers and implement the new functionalities. The One View tracker is developed using Java SE, Spring, JSP and SQL platform.
                     
         - **Developed AT&T PST Tool (Order Search Tool)** 
            
            The PST Tool is very commonly used order search tool for AT&T customers. The AT&T agents and stakeholders are using this tool for logging the task to create orders, cases and exceptions related to these orders. Our team has the responsibility to develop the codes for the new requirements and fixing the bug occurred in the existing version of this tool. This is developed using Coldfusion, HTML, CSS and SQL technologies
 
+accomplishments:
+    title: ACCOMPLISHMENTS
+    summary: |
+        - Appreciated by Line Manager for Automation- **'Certificate Generation Utility'** and **'Log Viewer Web Utility'**.
+        - Received multiple appreciations from the clients and manager for delivered critical enhancements in Release- 1707. 
+		- Developed web application **www.heartofmp.com** during the session 2015-2016. 
+		- Won Trophy in football inter-CC Competitions. 
+		- Member of Blossom committee (NGO). 
+		- Won Gold and Silver Medals at State level in various (ATHLETICS) sports activities in session 2010 2011. 
+		- Actively participated in various sports activities like- Marathon, Cricket, Football, foosball in AMDOCS. 
+          
 projects:
     title: Side Projects
-    intro: >
+    intro: > ..On the way..
       
     assignments:
       - title: 
@@ -122,8 +133,8 @@ skills:
 
 tools:
    title: Tools
-   details: | 
-     Git, Maven, Jira, Confluence, Junit, TDD, Apache Tomcat 7.0, Oracel, MySql, Putty, STS, Controlm 
+   summary: | 
+     Git, Maven, Jira, Confluence, Junit, TDD, Apache Tomcat 7.0, Oracel, MySql, Putty, STS, Controlm. 
 
 footer: >
     Designed  by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Surbhi Shrivastava</a>
