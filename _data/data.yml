@@ -41,10 +41,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-          - Software Developer, having 4 year’s of working experience in Application Design and Development. 
-	  - Expertise in Java, Spring, JSP, HTML and JDBC technologies. 
-	  - Strong object-oriented programming skills. 
-	  - Having knowledge of shell scripting Unix and SQL. 
+          - Software Developer, having 4 year’s of working experience in Application Design and Development.
+          - Expertise in Java, Spring, JSP, HTML and JDBC technologies. 
+          - Strong object-oriented programming skills. 
+          - Having knowledge of shell scripting Unix and SQL. 
 
 education:
     - degree: B.E (Information Techonology)
