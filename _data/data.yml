@@ -121,7 +121,8 @@ skills:
 
 tools:
    title: Tools
-   details: | Git, Maven, Jira, Confluence, Junit, TDD, Apache Tomcat 7.0, Oracel, MySql, Putty, STS, Controlm 
+   details: | 
+     Git, Maven, Jira, Confluence, Junit, TDD, Apache Tomcat 7.0, Oracel, MySql, Putty, STS, Controlm 
 
 footer: >
     Designed  by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Surbhi Shrivastava</a>
