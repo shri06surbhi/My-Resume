@@ -15,7 +15,7 @@ sidebar:
     email: surbhishrivastava66@gmail.com
     phone: 7022662724
     website: surbhishri66.github.io #do not add http://
-    linkedin: www.linkedin.com/in/surbhi-s-422b3985/
+    linkedin: surbhi-s-shri
     github: surbhishri66
  
     languages:
@@ -74,8 +74,6 @@ experiences:
       time: 2018 - 2020 (2years)
       company: HSBC Software Development (India) Private Limited, Pune
       details: |
-          Worked on various projects related to Trading and Banking.
-          Projects:-
           Worked on Data Management Layer for Satellite Sites (London, HongKong, Paris, New York) to deal with various types of trading and accounting data. It’s a single point of integration, to improve connectivity between multiple Global Banking and Markets Systems (GBM). Our team is responsible for data transformation, Enrichment, Filtering, Joining, Routing and Batch Processing. 
           
           Roles & Responsibilities:
@@ -89,12 +87,9 @@ experiences:
       time: 2016 - 2018 (2 years)
       company: Amdocs Pvt. Ltd., Pune
       details: | 
-          Worked on various projects related to Telecom.
-          Projects:- 
-          
           - Developed AT&T Tracker Tool (One View Tracker)
           
-                    This is a web based tool which is used by AT&T Agents and 
+                  - This is a web based tool which is used by AT&T Agents and 
                     Managers to track their customer’s plans and agents details in the 
                     OMS (Order management system) and CRM (customer relation management) Databases. 
                     Our team has the responsibility to develop the trackers and implement the new functionalities. 
@@ -102,7 +97,7 @@ experiences:
                     
           - Developed AT&T PST Tool (Order Search Tool)
           
-                    The PST Tool is very commonly used order search tool for AT&T customers.
+                  - The PST Tool is very commonly used order search tool for AT&T customers.
                     The AT&T agents and stakeholders are using this tool for logging the task to create orders, cases and exceptions 
                     related to these orders. Our team has the responsibility to develop the codes for the new requirements 
                     and fixing the bug occurred in the existing version of this tool.
