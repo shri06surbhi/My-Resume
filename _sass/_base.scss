@@ -169,10 +169,14 @@ p {
     .section {
         margin-bottom: 40px;
     }
-
-    .experiences-section, .educations-section {
+    .experiences-section {
         .item {
             margin-bottom: 30px;
+        }
+    }
+    .educations-section {
+        .item {
+            margin-bottom: 18px;
         }
     }
     .upper-row {
