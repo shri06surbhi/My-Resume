@@ -93,7 +93,7 @@ experiences:
            The PST Tool is very commonly used order search tool for AT&T customers. The AT&T agents and stakeholders are using this tool for logging the task to create orders, cases and exceptions related to these orders. Our team has the responsibility to develop the codes for the new requirements and fixing the bug occurred in the existing version of this tool. This is developed using Coldfusion, HTML, CSS and SQL technologies
 
 accomplishments:
-    title: ACCOMPLISHMENTS
+    title: accomplishments
     summary: |
         - Appreciated by Line Manager for Automation- **'Certificate Generation Utility'** and **'Log Viewer Web Utility'**.
         - Received multiple appreciations from the clients and manager for delivered critical enhancements in Release- 1707.
