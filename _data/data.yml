@@ -74,7 +74,7 @@ experiences:
       details: |
           Worked on Data Management Layer for Satellite Sites (London, HongKong, Paris, New York) to deal with various types of trading and accounting data. It’s a single point of integration, to improve connectivity between multiple Global Banking and Markets Systems (GBM). Our team is responsible for data transformation, Enrichment, Filtering, Joining, Routing and Batch Processing. 
           
-        <b>Roles & Responsibilities:</b>
+       <b> Roles & Responsibilities:</b>
            - Worked as backend developer for creating many real time and batch (intra day and EOD) feeds using Java, Spring (batch & integration framework), Maven, JDBC, Unix shell scripting and SQL  technologies to integrate various systems globally within HSBC. 
            - Implemented various message/file transfer protocols such as SFTP, JMS, Connect Direct  and MQ in our code to establish communication among several upstream and downstream systems. 
            - Created the automated ‘Certificate Generation Utility’ for the  team by using Java, sql and shell scripting technologies. 
