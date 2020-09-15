@@ -1,6 +1,6 @@
 {% assign tools = site.data.data.tools %}
 {% if tools %}
-<section class="section details-section">
+<section class="section summary-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
@@ -10,9 +10,9 @@
     {{ tools.title }}
   </h2>
 
-  <div class="details">
-    {{ tools.details | markdownify }}
-  </div><!--//details-->
+  <div class="summary">
+    {{ tools.summary | markdownify }}
+  </div><!--//summary-->
     
 </section><!--//section-->
 {% endif %}
