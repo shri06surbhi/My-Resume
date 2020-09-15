@@ -76,8 +76,8 @@ experiences:
         **Roles & Responsibilities:** 
            - Worked as backend developer for creating many real time and batch (intra day and EOD) feeds using Java, Spring (batch & integration framework), Maven, JDBC, Unix shell scripting and SQL  technologies to integrate various systems globally within HSBC. 
            - Implemented various message/file transfer protocols such as SFTP, JMS, Connect Direct  and MQ in our code to establish communication among several upstream and downstream systems. 
-           - Created the automated **'Certificate Generation Utility'** for the  team by using Java, sql and shell scripting technologies. 
-           - Worked as full stack developer for automated the **'Log Viewer Web Utility'** for the production support team across the Globe, by using Java, Spring, Spring boot, JSP, HTML and  Bootstrap CSS.
+           - Created the automated **Certificate Generation Utility** for the  team by using Java, sql and shell scripting technologies. 
+           - Worked as full stack developer for automated the **Log Viewer Web Utility** for the production support team across the Globe, by using Java, Spring, Spring boot, JSP, HTML and  Bootstrap CSS.
 
 
     - role: Software Developer (Telecom Domain)
@@ -95,7 +95,7 @@ experiences:
 accomplishments:
     title: accomplishments
     summary: |
-        - Appreciated by Line Manager for Automation- **'Certificate Generation Utility'** and **'Log Viewer Web Utility'**.
+        - Appreciated by Line Manager for Automation- **Certificate Generation Utility** and **Log Viewer Web Utility**.
         - Received multiple appreciations from the clients and manager for delivered critical enhancements in Release- 1707.
         - Developed web application **www.heartofmp.com** during the session 2015-2016.
         - Won Trophy in football inter-CC Competitions. 
