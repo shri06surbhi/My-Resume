@@ -41,7 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-          - Software Developer, having 4 year’s of working experience in Application Design and Development.
+          - Having 4 year’s of working experience in Application Design and Development.
           - Expertise in Java, Spring, JSP, HTML and JDBC technologies. 
           - Strong object-oriented programming skills. 
           - Having knowledge of shell scripting Unix and SQL. 
@@ -53,9 +53,7 @@ education:
       percentage: 8.04 CGPA
       details: |
         Developed Notepad Editor using Java SE and Java EE.
-        The objective is to design a Notepad Editor which can operate on any operating system and
-        provides better application that will offer additional features and enhancements, like
-        changing font colour, mailing, & toolbar with shortcut icons.
+        The objective is to design a Notepad Editor which can operate on any operating system and provides better application that will offer additional features and enhancements, like changing font colour, mailing, & toolbar with shortcut icons.
 
     - degree: Class XII (M.P. Board)
       university: 
