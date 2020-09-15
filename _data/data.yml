@@ -122,12 +122,12 @@ skills:
 
     toolset:
       - name: Java and Spring
-        level: 95%
-
+        level: 95% 
+        
       - name: Javascript, HTML & CSS
         level: 50%
         
-     - name: JSP
+      - name: JSP
         level: 40%
         
       - name: Unix and Shell Scripting
