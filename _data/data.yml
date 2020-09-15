@@ -15,7 +15,7 @@ sidebar:
     email: surbhishrivastava66@gmail.com
     phone: 7022662724
     website: surbhishri66.github.io #do not add http://
-    linkedin: surbhi
+    linkedin: www.linkedin.com/in/surbhi-s-422b3985/
     github: surbhishri66
  
     languages:
@@ -34,15 +34,21 @@ sidebar:
 
       - item: Travelling
         link:
+        
+        - item: Sports
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      My objective is to achieve a challenging position in a dynamically changing environment of the industry and to be an integral part of a team of professionals.
+      - Software Developer, having 4 year’s of working experience in Application Design and Development. 
+	  - Expertise in Java, Spring, JSP, HTML and JDBC technologies. 
+	  - Strong object-oriented programming skills. 
+	  - Having knowledge of shell scripting Unix and SQL. 
 
 education:
     - degree: B.E (Information Techonology)
-      university: TIT Bhopal (MP)
+      university: Rajiv Gandhi Proudyogiki Vishwavidyalaya - Bhopal, Madhya Pradesh
       time: 2011 - 2015
       percentage: 8.04 CGPA
       details: |
@@ -66,15 +72,22 @@ education:
 experiences:
     - role: Software Developer (Banking Domain)
       time: 2018 - 2020 (2years)
-      company: HSBC, Pune
+      company: HSBC Software Development (India) Private Limited, Pune
       details: |
           Worked on various projects related to Trading and Banking.
           Projects:-
+          Worked on Data Management Layer for Satellite Sites (London, HongKong, Paris, New York) to deal with various types of trading and accounting data. It’s a single point of integration, to improve connectivity between multiple Global Banking and Markets Systems (GBM). Our team is responsible for data transformation, Enrichment, Filtering, Joining, Routing and Batch Processing. 
+          
+          Roles & Responsibilities:
+          - Worked as backend developer for creating many real time and batch (intra day and EOD) feeds using Java, Spring (batch & integration framework), Maven, JDBC, Unix shell scripting and SQL  technologies to integrate various systems globally within HSBC. 
+          - Implemented various message/file transfer protocols such as SFTP, JMS, Connect Direct  and MQ in our code to establish communication among several upstream and downstream systems. 
+          - Created the automated ‘Certificate Generation Utility’ for the  team by using Java, sql and shell scripting technologies. 
+          - Worked as full stack developer for automated the ‘Log Viewer  Web Utility’  for the production support team across the Globe, by using Java, Spring, Spring boot, JSP, HTML and  Bootstrap CSS.
 
 
     - role: Software Developer (Telecom Domain)
       time: 2016 - 2018 (2 years)
-      company: Amdocs, Pune
+      company: Amdocs Pvt. Ltd., Pune
       details: | 
           Worked on various projects related to Telecom.
           Projects:- 
@@ -85,44 +98,48 @@ experiences:
                     Managers to track their customer’s plans and agents details in the 
                     OMS (Order management system) and CRM (customer relation management) Databases. 
                     Our team has the responsibility to develop the trackers and implement the new functionalities. 
-                    The One View tracker is developed in the Java, AngularJS on the Spring platform.
+                    The One View tracker is developed using Java SE, Spring, JSP and SQL platform.
                     
-          - Developed AT&T PST Tool
+          - Developed AT&T PST Tool (Order Search Tool)
           
                     The PST Tool is very commonly used order search tool for AT&T customers.
                     The AT&T agents and stakeholders are using this tool for logging the task to create orders, cases and exceptions 
                     related to these orders. Our team has the responsibility to develop the codes for the new requirements 
                     and fixing the bug occurred in the existing version of this tool.
+                    This is developed using Coldfusion, HTML, CSS and SQL technologies
 
 projects:
     title: Side Projects
     intro: >
       
     assignments:
-      - title: Velocity
+      - title: 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: #""
     
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java SE and Spring
-        level: 98%
+      - name: Java and Spring
+        level: 95%
 
       - name: Javascript, HTML & CSS
         level: 50%
-
-      - name: Unix
+        
+     - name: JSP
         level: 40%
+        
+      - name: Unix and Shell Scripting
+        level: 30%
 
-      - name: Sql
-        level: 40%
+      - name: JDBC and Sql
+        level: 30%
 
 tools:
    title: Tools
    details: | 
-    Git, Maven, Jira, Confluence, Junit, TDD, Apache Tomcat 7.0, Oracel, MySql, Putty, STS 
+    Git, Maven, Jira, Confluence, Junit, TDD, Apache Tomcat 7.0, Oracel, MySql, Putty, STS, Controlm 
 
 footer: >
     Designed  by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Surbhi Shrivastava</a>
