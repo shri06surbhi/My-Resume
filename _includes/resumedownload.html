@@ -12,9 +12,9 @@
     {% for resumedownloads in resumedownload %}
 
       {% if resumedownloads.link %}
-      <li><a href="{{ resumedownloads.link }}"> {{ resumedownloads.item }}</a><i class="fa fa-file"></i></li>
+      <li><a href="{{ resumedownloads.link }}">{{ resumedownloads.item }}</a> &nbsp <i class="fa fa-file"></i></li>
       {% else %}
-      <li><i class="fa fa-file"></i> &nbsp {{ resumedownloads.item }}</li>
+      <li>{{ resumedownloads.item }} &nbsp <i class="fa fa-file"></i></li>
       {% endif %}
 
     {% endfor %}
