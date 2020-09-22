@@ -40,7 +40,7 @@ sidebar:
 
     resumedownload:
       - item: My resume 
-        link: ./resume/Surbhi_pages.pages <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+        link: ./resume/Surbhi_pages.pages
 
 
 career-profile:
