@@ -38,6 +38,11 @@ sidebar:
       - item: Sports
         link:
 
+    resumedownload:
+         Download resume
+         <a href="https://surbhishri66.github.io/My-Resume/" target="_blank" rel="nofollow">Surbhi Shrivastava</a>
+
+
 career-profile:
     title: Career Profile
     summary: |
