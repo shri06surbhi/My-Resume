@@ -39,8 +39,8 @@ sidebar:
         link:
 
     resumedownload:
-      - item: My resume <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-        link: ./resume/Surbhi_pages.pages
+      - item: My resume 
+        link: ./resume/Surbhi_pages.pages <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
 
 
 career-profile:
