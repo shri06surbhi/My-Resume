@@ -39,8 +39,8 @@ sidebar:
         link:
 
     resumedownload:
-      - item: 
-        link: <a href="./resume/Surbhi_pages.pages">Surbhi Shrivastava</a>
+      - item: Surbhi Shrivastava
+        link: ./resume/Surbhi_pages.pages
 
 
 career-profile:
