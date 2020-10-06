@@ -1,0 +1,18 @@
+{% assign tools = site.data.data.tools %}
+{% if tools %}
+<section class="section summary-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ tools.title }}
+  </h2>
+
+  <div class="summary">
+    {{ tools.summary | markdownify }}
+  </div><!--//summary-->
+    
+</section><!--//section-->
+{% endif %}

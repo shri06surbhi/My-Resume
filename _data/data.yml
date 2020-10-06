@@ -3,188 +3,148 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False 
+    education: False 
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: SURBHI SHRIVASTAVA
+    tagline: Software Developer
+    avatar: profile.jpeg #profile.png #profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
+    email: surbhishrivastava66@gmail.com
+    phone: 7022662724
+    #website: surbhishri66.github.io #do not add http://
+    linkedin: surbhi-s-shri
+    github: surbhishri66
+ 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Hindi
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Listening to Music
         link:
 
-      - item: Snowboarding
+      - item: Painting
         link:
 
-      - item: Cooking
+      - item: Travelling
         link:
+      
+      - item: Sports
+        link:
+
+    resumedownload:
+      - item: My resume 
+        link: ./resume/Surbhi_pages.pages
+
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+          - Having 4 year’s of working experience in Application Design and Development.
+          - Expertise in Java, Spring, JSP, HTML and JDBC technologies. 
+          - Strong OOPs concepts, Data Structures & Algorithms. 
+          - Having knowledge of shell scripting Unix and SQL. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.E (Information Techonology)
+      university: Rajiv Gandhi Proudyogiki Vishwavidyalaya - Bhopal, Madhya Pradesh
+      time: 2011 - 2015
+      percentage: 8.04 CGPA
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Developed Notepad Editor using Java SE and Java EE.
+        The objective is to design a Notepad Editor which can operate on any operating system and provides better application that will offer additional features and enhancements, like changing font colour, mailing, & toolbar with shortcut icons.
+
+    - degree: Class XII (M.P. Board)
+      university: 
+      time:  2010 - 2011
+      percentage: 75%
+      details: | 
+
+    - degree: Class X (M.P. Board)
+      university: 
+      time: 2009 - 2010
+      percentage: 78%
+      details: | 
+      
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - role: Software Developer (Banking Domain)
+      time: 2018 - 2020 (2 years)
+      company: HSBC Software Development (India) Private Limited, Pune
+      details: | 
+        Worked on ***Data Management Layer*** for Satellite Sites (London, HongKong, Paris, New York) to deal with various types of trading and accounting data. It’s a single point of integration to improve connectivity between multiple Global Banking and Markets Systems (GBMs). Our team is responsible for data Transformation, Enrichment, Filtering, Joining, Routing and Batch Processing. 
+          
+        ***Roles & Responsibilities:*** 
+           - Worked as backend developer for creating many Real time and Batch (Intraday and EOD) feeds using Java, Spring (Batch & Integration framework), Maven, JDBC, Unix shell scripting and SQL technologies to integrate various systems globally within HSBC. 
+           - Implemented various message/file transfer protocols such as SFTP, JMS, Connect Direct and MQ in our code to establish communication among several upstream and downstream systems. 
+           - Created the automated **Certificate Generation Utility** for the  team by using Java, sql and shell scripting. 
+           - Worked as full stack developer for automated the **Log Viewer Web Utility** for the production support team across the Global HSBC, by using Java, Spring, Spring boot, JSP, HTML and  Bootstrap CSS.
+
+
+    - role: Software Developer (Telecom Domain)
+      time: 2016 - 2018 (2 years)
+      company: Amdocs Pvt. Ltd., Pune
+      details: | 
+        - ***Developed AT&T Tracker Tool (One View Tracker)*** 
+            
+           This is a web based tool which is used by AT&T Agents and Managers to track their customer’s plans and agents details in the OMS (Order management system) and CRM (customer relation management) Databases. Our team has the responsibility to develop the trackers and implement the new functionalities. The One View tracker is developed using Java SE, Spring, JSP and SQL platform.
+                    
+        - ***Developed AT&T PST Tool (Order Search Tool)*** 
+           
+           The PST Tool is very commonly used order search tool for AT&T customers. The AT&T agents and stakeholders are using this tool for logging the task to create orders, cases and exceptions related to these orders. Our team has the responsibility to develop the codes for the new requirements and fixing the bug occurred in the existing version of this tool. This is developed using Coldfusion, HTML, CSS and SQL technologies
+
+accomplishments:
+    title: self learning & accomplishments
+    summary: |
+        - Appreciated by the Line Manager for the Automations- **Certificate Generation Utility** and **Log Viewer Web Utility**.
+        - Developed my resume <a href="https://surbhishri66.github.io/My-Resume/">website</a> using HTML/JS/CSS for improving my web designing skills.
+        - Received multiple appreciations from the clients and manager for delivered critical enhancements in Release- 1707.
+        - Developed web application **www.heartofmp.com** during the session 2015-2016.
+        - Won Trophy in football inter-CC Competitions. 
+        - Member of Blossom committee (NGO).
+        - Won Gold and Silver Medals at State level in various (ATHLETICS) sports activities in session 2010 2011.
+        - Actively participated in various sports activities like- Marathon, Cricket, Football, foosball in AMDOCS. 
+          
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Side Projects
+    intro: > 
+     On the way..
+      
     assignments:
-      - title: Velocity
+      - title: 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        tagline: #""
+    
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Java and Spring
         level: 95%
+        
+      - name: OOPs concepts, Data Structures & Algorithms
+        level: 40%
+        
+      - name: Javascript, HTML & CSS
+        level: 50%
+        
+      - name: JSP
+        level: 40%
+        
+      - name: Unix and Shell Scripting
+        level: 30%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: JDBC and Sql
+        level: 30%
 
-      - name: Sketch & Photoshop
-        level: 60%
+tools:
+   title: Tools
+   summary: | 
+     Git, Maven, Jira, Confluence, Junit, TDD, Apache Tomcat 7.0, Oracel, MySql, Putty, STS, Controlm. 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed  by <img src="favicon.ico" width="16" height="16"> &nbsp <a href="https://surbhishri66.github.io/My-Resume/" target="_blank" rel="nofollow">Surbhi Shrivastava</a>

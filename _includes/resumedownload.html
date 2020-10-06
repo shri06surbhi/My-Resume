@@ -1,0 +1,25 @@
+{% assign resumedownload = site.data.data.sidebar.resumedownload %}
+{% if resumedownload %}
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">
+   <i class="fas fa-download"></i>
+    &nbsp Download
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for resumedownloads in resumedownload %}
+
+      {% if resumedownloads.link %}
+      <li><i class="fa fa-file"></i>
+      &nbsp<a href="{{ resumedownloads.link }}">{{ resumedownloads.item }}</a>
+      </li>
+      {% else %}
+      <li><i class="fa fa-file"></i> &nbsp {{ resumedownloads.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//resumedownload-->
+{% endif %}
