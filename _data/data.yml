@@ -40,7 +40,7 @@ sidebar:
 
     resumedownload:
       - item: My resume 
-        link: ./resume/Surbhi_pages.pages
+        link: ./resume/Surbhi_Resume_Exp_4_Years.pdf
 
 
 career-profile:
@@ -49,7 +49,7 @@ career-profile:
           - Having 4 year’s of working experience in Application Design and Development.
           - Expertise in Java, Spring, JSP, HTML and JDBC technologies. 
           - Good at OOPs concepts, Data Structures & Algorithms. 
-          - Having knowledge of shell scripting Unix and SQL. 
+          - Having knowledge of Shell Scripting, Unix and SQL. 
 education:
     - degree: B.E (Information Techonology)
       university: Rajiv Gandhi Proudyogiki Vishwavidyalaya - Bhopal, Madhya Pradesh
@@ -87,7 +87,7 @@ experiences:
 
     - role: Software Developer (Telecom Domain)
       time: 2016 - 2018 (2 years)
-      company: Amdocs Pvt. Ltd., Pune
+      company: Amdocs (India) Pvt. Ltd., Pune
       details: | 
         Worked on **Order Management System** for the AT&T client. It is used by AT&T Agents, Manager’s and Stakeholders to track the details of the orders and customer plans.
         
